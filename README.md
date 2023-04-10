@@ -7,7 +7,7 @@
 ## Project Overview
 This project aims to leverage data science and machine learning techniques to predict the employee turnover rate, which can help save the company from loss. The project is divided into four tasks.
 ## Tasks
-1.  Predictive modeling: Using data science and predictive modeling techniques, the project aims to predict the employee turnover rate accurately.
+1.  Data cleaning and statistical analysis : Using data science and predictive modeling techniques, the project aims to predict the employee turnover rate accurately.
 
 2. Feature engineering: The raw data is transformed into features that can be used for supervised learning. This task includes selecting, manipulating, and transforming the raw data into numerical values to enhance the model's performance.
 
