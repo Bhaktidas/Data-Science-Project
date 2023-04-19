@@ -6,6 +6,21 @@
 
 ## Project Overview
 This project aims to leverage data science and machine learning techniques to predict the employee turnover rate, which can help save the company from loss. The project is divided into four tasks.
+
+## Project Description
+
+The Employee Turnover Prediction project is a Python project designed to predict employee turnover based on various factors. The project aims to help companies identify high-risk employees and take proactive steps to retain them.
+
+The project will use machine learning algorithms, specifically classification models, to analyze the data and predict the likelihood of an employee leaving the company based on factors such as their job satisfaction, salary, tenure, performance rating, and department.
+
+The project will use the Pandas library to read the CSV file containing the employee data and manipulate the data. The machine learning models will be implemented using the Scikit-learn library, providing a range of powerful tools for data analysis and prediction. The project will also include error handling and data validation to ensure that the data is entered and processed correctly.
+
+The Employee Turnover Prediction project will be an open-source project, available on GitHub for anyone to download, use, and contribute to. The project will be compatible with Python 3.x and will run on Windows, macOS, and Linux.
+
+The project will also include a user interface implemented using the Tkinter library, providing an easy-to-use tool for companies to input employee data and receive a prediction of the likelihood of turnover.
+
+Overall, the Employee Turnover Prediction project aims to provide an accurate and reliable tool for predicting employee turnover, allowing companies to identify high-risk employees and take proactive steps to retain them. By leveraging the power of machine learning, the project can help to optimize workforce management and improve employee engagement and retention.
+
 ## Tasks
 1.  Data cleaning and statistical analysis : Using data science and predictive modeling techniques, the project aims to predict the employee turnover rate accurately.
 
